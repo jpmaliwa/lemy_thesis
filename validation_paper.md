@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "Theoretical model and structural performance of assembled joint between circular CFDST column and composite beam"
+title: "Validation Paper Summary"
 ---
 
-# Theoretical model and structural performance of assembled joint between circular CFDST column and composite beam
 The paper, titled **"Theoretical model and structural performance of assembled joint between circular CFDST column and composite beam"** by Guo et al. (2020), explores the design, theoretical modeling, and finite element (FE) analysis of joints between circular concrete-filled double-skin steel tubular (CFDST) columns and composite beams connected with blind bolts. Key highlights from the paper that are relevant for your work include:
 
 1. **Objective**: The paper presents a sophisticated theoretical model to evaluate the stiffness and moment capacity of a joint between circular CFDST columns and composite beams. It incorporates the bending stiffness of a curved end plate connected with blind bolts, emphasizing that the curvature and connection setup significantly influence structural performance.
