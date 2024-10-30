@@ -1,2 +1,2 @@
 markdown: kramdown
-theme: minima  # Or any theme you prefer
+theme: jekyll-theme-cayman  # minima  # Or any theme you prefer
