@@ -1,2 +1,7 @@
-markdown: kramdown
-theme: jekyll-theme-leap-day   #jekyll-theme-cayman  # minima  # Or any theme you prefer
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme # add this line if you're using GitHub Pages
+
+
+# markdown: kramdown
+# theme: jekyll-theme-leap-day   #jekyll-theme-cayman  # minima  # Or any theme you prefer
