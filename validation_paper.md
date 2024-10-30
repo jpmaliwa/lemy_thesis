@@ -13,4 +13,4 @@ The paper, titled **"Theoretical model and structural performance of assembled j
 
 4. **Significance for Your Thesis**: Replicating this FE model in Abaqus will validate the approach and ensure that it aligns with established methodologies. It will also serve as a strong comparative basis when you analyze a similar configuration but with square HSRC columns.
 
-### Next Steps with Abaqus
+### Next Steps
