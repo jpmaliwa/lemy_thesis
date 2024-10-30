@@ -1,82 +1,82 @@
-# Site settings
-title: "My Site"
-description: "A blog or site with the Minimal Mistakes theme."
-url: "https://jpmaliwa.github.io/" # Your GitHub Pages URL
-baseurl: "" # Leave empty for GitHub Pages root, or add "/subdirectory" if not on root
+# # Site settings
+# title: "My Site"
+# description: "A blog or site with the Minimal Mistakes theme."
+# url: "https://jpmaliwa.github.io/" # Your GitHub Pages URL
+# baseurl: "" # Leave empty for GitHub Pages root, or add "/subdirectory" if not on root
 
-# Minimal Mistakes theme settings
-remote_theme: "mmistakes/minimal-mistakes" # Use the theme as a remote theme
-plugins:
-  - jekyll-remote-theme # Enables remote theme usage on GitHub Pages
-#   - jekyll-sitemap # Adds sitemap generation
-#   - jekyll-seo-tag # Adds SEO tags
-#   - jekyll-feed # Generates RSS feed for posts
+# # Minimal Mistakes theme settings
+# remote_theme: "mmistakes/minimal-mistakes" # Use the theme as a remote theme
+# plugins:
+#   - jekyll-remote-theme # Enables remote theme usage on GitHub Pages
+# #   - jekyll-sitemap # Adds sitemap generation
+# #   - jekyll-seo-tag # Adds SEO tags
+# #   - jekyll-feed # Generates RSS feed for posts
 
-# # Author information
-# author:
-#   name: "Your Name"
-#   avatar: "/assets/images/avatar.png" # Replace with your own image if desired
-#   bio: "A brief bio or tagline about yourself."
-#   location: "City, Country"
-#   email: "you@example.com"
-#   links:
-#     - label: "GitHub"
-#       url: "https://github.com/username"
-#     - label: "Twitter"
-#       url: "https://twitter.com/username"
-#     - label: "LinkedIn"
-#       url: "https://linkedin.com/in/username"
+# # # Author information
+# # author:
+# #   name: "Your Name"
+# #   avatar: "/assets/images/avatar.png" # Replace with your own image if desired
+# #   bio: "A brief bio or tagline about yourself."
+# #   location: "City, Country"
+# #   email: "you@example.com"
+# #   links:
+# #     - label: "GitHub"
+# #       url: "https://github.com/username"
+# #     - label: "Twitter"
+# #       url: "https://twitter.com/username"
+# #     - label: "LinkedIn"
+# #       url: "https://linkedin.com/in/username"
 
-# # Navigation settings
-# defaults:
-#   - scope:
-#       path: ""
-#       type: "posts"
-#     values:
-#       layout: "single"
-#       author_profile: true
+# # # Navigation settings
+# # defaults:
+# #   - scope:
+# #       path: ""
+# #       type: "posts"
+# #     values:
+# #       layout: "single"
+# #       author_profile: true
 
-# # Sidebar and navigation links
-# header:
-#   nav:
-#     - title: "Home"
-#       url: "/"
-#     - title: "About"
-#       url: "/about/"
-#     - title: "Contact"
-#       url: "/contact/"
-#     - title: "Blog"
-#       url: "/blog/"
+# # # Sidebar and navigation links
+# # header:
+# #   nav:
+# #     - title: "Home"
+# #       url: "/"
+# #     - title: "About"
+# #       url: "/about/"
+# #     - title: "Contact"
+# #       url: "/contact/"
+# #     - title: "Blog"
+# #       url: "/blog/"
 
-# # Social sharing settings
-# social:
-#   email: "mailto:you@example.com"
-#   twitter: "username"
-#   github: "username"
-#   linkedin: "username"
+# # # Social sharing settings
+# # social:
+# #   email: "mailto:you@example.com"
+# #   twitter: "username"
+# #   github: "username"
+# #   linkedin: "username"
 
-# # SEO and Analytics
-# google_analytics: "UA-XXXXXXXX-X" # Replace with your Google Analytics tracking ID
-# twitter:
-#   username: "username"
-#   card: "summary"
+# # # SEO and Analytics
+# # google_analytics: "UA-XXXXXXXX-X" # Replace with your Google Analytics tracking ID
+# # twitter:
+# #   username: "username"
+# #   card: "summary"
 
-# # Layout customization
-# theme_skin: "default" # Options: default, dark, or custom skins
-# show_related_posts: true # Display related posts at the end of each post
-# use_site_logo: true
+# # # Layout customization
+# # theme_skin: "default" # Options: default, dark, or custom skins
+# # show_related_posts: true # Display related posts at the end of each post
+# # use_site_logo: true
 
-# # Site pagination
-# paginate: 5 # Number of posts per page
-# paginate_path: "/page:num/"
+# # # Site pagination
+# # paginate: 5 # Number of posts per page
+# # paginate_path: "/page:num/"
 
-# # Build settings for GitHub Pages
-# markdown: kramdown
-# kramdown:
-#   input: GFM
-# jekyll_admin: # Optional admin interface
+# # # Build settings for GitHub Pages
+# # markdown: kramdown
+# # kramdown:
+# #   input: GFM
+# # jekyll_admin: # Optional admin interface
 
 
 
-# markdown: kramdown
-# theme: jekyll-theme-leap-day   #jekyll-theme-cayman  # minima  # Or any theme you prefer
+markdown: kramdown
+theme: minima   # jekyll-theme-leap-day   #jekyll-theme-cayman  # Or any theme you prefer
